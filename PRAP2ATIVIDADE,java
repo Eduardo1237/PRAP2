@@ -54,8 +54,8 @@ public class Stress {
         return mSelfControl;
     }
 
-    public void setAge(String SelfControl) {
-        mAge = age;
+    public void setSelfControl(String SelfControl) {
+        mSelfControl = selfControl;
     }
 
     public int getLevel() {
